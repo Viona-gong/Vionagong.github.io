@@ -1427,6 +1427,7 @@ footer p {
     color: #888888;
     font-size: 450%;
     letter-spacing: 5px;
+    center;
 }
 
 footer .row {
