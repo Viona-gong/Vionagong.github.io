@@ -196,9 +196,6 @@ h3 {
     font-weight: 300;
 }
 
-h1 {
-    text-align: center;
-}
 
 h1 a {
     text-decoration: none;
@@ -1430,7 +1427,7 @@ footer p {
     color: #888888;
     font-size: 450%;
     letter-spacing: 5px;
-    center;
+    text-align: center;
 }
 
 footer .row {
